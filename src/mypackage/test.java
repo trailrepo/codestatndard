@@ -5,8 +5,11 @@ public class test {
 		String a1=null;
 		System.out.println(a1.length());
 		boolean a=true;
+		
+		int ff
 		while (a) {
 			
 		}
+		System.out.println();
 	}
 }
